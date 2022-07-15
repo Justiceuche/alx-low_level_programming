@@ -16,7 +16,7 @@ flag = 0;
 
 if (i == 0)
 {
-flag = 1
+flag = 1;
 }
 else
 {
