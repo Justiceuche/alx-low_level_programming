@@ -22,7 +22,7 @@ break;
 if (!*needle)
 {
 return (result);
-
+}
 needle = fneedle;
 result++;
 haystack = result;
