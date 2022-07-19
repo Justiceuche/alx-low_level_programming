@@ -26,5 +26,3 @@ accept = t;
 
 return (c);
 }
-
-								
